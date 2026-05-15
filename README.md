@@ -338,5 +338,3 @@ const theme = localStorage.getItem('theme');
 9. **Small projects:** Todo list, weather app, calculator, quiz game
 
 ---
-
-If you want, I can build you a structured day-by-day study plan, or generate a starter project template with HTML, CSS, and JS wired together so you can begin practicing immediately.
